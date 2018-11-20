@@ -1,0 +1,12 @@
+{
+  "ApiUrl": "https://ajera.com/V006619/AjeraAPI.ashx?",
+
+  "auth": {
+    "Username": "testUser",
+    "Password": "testPw@"
+  },
+
+  "ListProjectsArguments": {
+    "FilterByEarliestModificationDate": "2018-11-15"
+  }
+}
